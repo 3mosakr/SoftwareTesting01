@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW.Payroll", "SW.Payroll\SW.Payroll.csproj", "{A6754DD9-C959-47E8-A4F6-05B23C1D04B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SW.Payroll.Tests", "SW.Payroll.Tests\SW.Payroll.Tests.csproj", "{FD42B801-3EC8-4E95-9EE8-D2D6E60FA2C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6754DD9-C959-47E8-A4F6-05B23C1D04B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6754DD9-C959-47E8-A4F6-05B23C1D04B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6754DD9-C959-47E8-A4F6-05B23C1D04B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6754DD9-C959-47E8-A4F6-05B23C1D04B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD42B801-3EC8-4E95-9EE8-D2D6E60FA2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD42B801-3EC8-4E95-9EE8-D2D6E60FA2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD42B801-3EC8-4E95-9EE8-D2D6E60FA2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD42B801-3EC8-4E95-9EE8-D2D6E60FA2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F795DF0-047B-4765-8FA4-65F1A6B892F3}
+	EndGlobalSection
+EndGlobal
